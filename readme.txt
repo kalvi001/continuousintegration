@@ -3,6 +3,7 @@ CI
 Jenkins
 Hudson
 Sonar
+Jenkins as scripting
 
 Build & deploy
 ==============
@@ -24,6 +25,19 @@ DVCS
 =====
 Git
 
+
+Jquery
+Nodejs
+Angular JS
+Cassandra
+Zoo keeper
+thymeleaf
+elastic search
+spring
+struts
+hibernate
+web services
+big data hadoop
 
 URL
 ====

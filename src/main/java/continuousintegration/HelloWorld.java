@@ -22,6 +22,7 @@ public class HelloWorld extends HttpServlet {
 		HelloWorldService helloWorldService = new HelloWorldService();
 		boolean returnVal =helloWorldService.equalityCheck(a, b);
 		PrintWriter out = response.getWriter();
+		System.out.println("hello world");
 		if(returnVal)
 		{
 			out.println (
