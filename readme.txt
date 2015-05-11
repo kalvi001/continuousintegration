@@ -4,6 +4,7 @@ Jenkins
 Hudson
 Sonar
 Jenkins as scripting
+How jenkins works
 
 Build & deploy
 ==============
