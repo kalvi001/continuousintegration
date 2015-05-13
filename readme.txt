@@ -5,6 +5,8 @@ Hudson
 Sonar
 Jenkins as scripting
 How jenkins works
+Piwik
+A/B testing
 
 Build & deploy
 ==============
@@ -39,6 +41,7 @@ struts
 hibernate
 web services
 big data hadoop
+html5, css3
 
 URL
 ====
