@@ -21,7 +21,7 @@ public class UtilTest {
   }
   @Test
   public void testService() throws Exception {
-	  boolean boolval = helloWorldService.equalityCheck(2, 1);
+	  boolean boolval = helloWorldService.equalityCheck(2, 0);
 	  assertTrue(boolval);
   }
 
