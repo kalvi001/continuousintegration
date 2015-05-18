@@ -1,6 +1,8 @@
 CI
 ====
 Jenkins
+http://code.tutsplus.com/tutorials/setting-up-continuous-integration-continuous-deployment-with-jenkins--cms-21511
+http://stackoverflow.com/questions/23000199/jenkins-job-notification-fails-with-no-git-consumers-for-uri
 Hudson
 Sonar
 Jenkins as scripting
